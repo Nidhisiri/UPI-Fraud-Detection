@@ -49,8 +49,3 @@ UPI_Fraud_Detection/
    streamlit run app.py
    ```
 4. Open http://localhost:8501
-
-To recreate the `models/` and `data/` folders, run the notebook from top to bottom (section 14 exports them).
-
-## Disclaimer
-This is an ML-based assessment for learning purposes. The prediction is an estimate, not a guarantee that a transaction is safe or fraudulent.
