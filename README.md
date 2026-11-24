@@ -1,4 +1,3 @@
-# UPI-Fraud-Detection
 # UPI Fraud Detection
 
 **CSL236 – Introduction to AI & ML | The NorthCap University**
